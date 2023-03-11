@@ -1,5 +1,4 @@
 # Akbank-Python-Bootcamp
-# Mart 2023
 
 Pizza Sipariş Sistemi
 Project Overview
