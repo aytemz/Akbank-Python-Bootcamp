@@ -13,3 +13,4 @@ alindiktan sonra kullaniciya ait bu bilgiler veri tabanina eklenmektedir.
 gerekmektedir. Aksi takdirde bilginin tekrar girilmesi istenir.
 * Islemler tamamlandiktan sonra siparisin basariyla olusturuldugunu belirten
 mesaj kullaniciya gosterilir.
+* Islemler sonucunda, veritabanı olarak adlandırdığımız "Orders_Database.csv" ve "Menu.txt" dosyası ilgili dizinde otomatik olarak olusturulacaktır.
