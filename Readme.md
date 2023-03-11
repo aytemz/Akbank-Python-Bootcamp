@@ -1,6 +1,6 @@
 ### Pizza Sipariş Sistemi
 
-### Proje hakkinda : 
+Proje hakkinda : 
     
 * Oncelikle kullanici menuden pizza tabani ve sos secmektedir. Ardindan 
 yaptigi secimlerin aciklamasi ve toplam tutari kullaniciya gosterilir. 
